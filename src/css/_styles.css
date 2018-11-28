@@ -3,3 +3,16 @@
 #TableOfContents ul li {
   margin-bottom: 1em;
 }
+
+body{
+    font-family: "museo-sans-rounded", Sans-Serif;
+    background: #FFFFFF;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: "jaf-facitweb", "Sans-Serif";
+}
+
+main-page-title {
+	color: #100457;
+}
